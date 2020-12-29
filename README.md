@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 # [Yogita Bhatia](https://yogita-bhatia-portfolio.netlify.app)
 Python | JavaScript | Node | React | HTML | CSS
-
+<!--
 ![alt text](https://github.com/Yogita98/Yogita98/blob/main/cover-pic.jpg)
+-->
 <p align="center">
   <b><i>Connect with me 📫</i></b>
 
