@@ -17,7 +17,7 @@ Python | JavaScript | Node | React | HTML | CSS
 <!--
 ![alt text](https://github.com/Yogita98/Yogita98/blob/main/cover-pic.jpg)
 -->
-<p align="center">
+<p>
   <b><i>Connect with me 📫</i></b>
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
