@@ -30,11 +30,9 @@ Python | JavaScript | Node | React | HTML | CSS
 
 <h2> 𝐇𝐞y 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
  
-* Primary coding language: JavaScript
-* I’m currently contributing to Mozilla Firefox
-* Lately, I've switched my tech stack to JavaScript so I'm exploring the world of Js
-* 👯 I'll be contributing to the Script Winter of Code 2021
-* I'm always looking for opportunities to work on an open source project
+* Opensource @Mozilla Firefox
+* vGHC OSD'21 mentor
+* Always looking for opportunities to work on an open source project
 * 😄 Pronouns: She/her
 
  <details>
